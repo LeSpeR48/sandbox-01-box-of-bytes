@@ -7,8 +7,8 @@ int celsius(int f) {
 }
 
 int main() {
-    std::cout << celsius(100) << ' '
-              << celsius(0) << ' '
-              << celsius(212) << '\n';
+    std::cout << celsius(32) << ' '
+              << celsius(50) << ' '
+              << celsius(111) << '\n';
     return 0;
 }

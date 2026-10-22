@@ -14,6 +14,6 @@ void show(int tenths) {
 
 int main() {
     show(3600000);
-    show(12345);
+    show(36001);
     return 0;
 }
